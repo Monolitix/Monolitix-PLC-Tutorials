@@ -21,4 +21,5 @@ To follow these tutorials, you will need:
 ## Support
 
 For documentation, updates, and more resources, visit the official Monolitix platform: [![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@monolitix_io)
+
 New tutorials are published regularly on the Monolitix YouTube channel.
