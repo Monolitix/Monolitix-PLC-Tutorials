@@ -6,8 +6,8 @@ This repository contains the project files and source code used in the official 
 
 ## Each folder contains the code used in a specific YouTube tutorial:
 
-`Tutorial_1_First_Project` → Introduction and first PLC project
-→ More tutorials will be added regularly
+- `Tutorial_1_First_Project` → Introduction and first PLC project
+- More tutorials will be added regularly
 
 ## Requirements
 
