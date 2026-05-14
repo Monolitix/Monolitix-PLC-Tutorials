@@ -1,8 +1,6 @@
 # Monolitix PLC Tutorials
 
-[![Monolitix](https://img.shields.io/badge/Monolitix-Website-blue)](https://monolitix.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@monolitix_io)
+[![Monolitix](https://img.shields.io/badge/Monolitix-Website-blue)](https://monolitix.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@monolitix_io)
 
 Welcome to the official tutorial repository for Monolitix PLC.
 
